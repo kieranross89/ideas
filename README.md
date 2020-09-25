@@ -8,3 +8,4 @@ Some ideas for a few things to try
 * Pick random album - source discogs collection,Spotify library, Spotify catalog
 * Convert setlist to playlist
 * Live twitter heat map - who/what is getting more positive tweets, sentiment analysis etc
+* Web drum machine/sampler
